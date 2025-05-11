@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Sun May 11 12:22:48 2025
+# Process ID: 9672
+# Current directory: C:/Toma/vlsi/median_filter/median_filter.runs/impl_1
+# Command line: vivado.exe -log median_filter.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source median_filter.tcl -notrace
+# Log file: C:/Toma/vlsi/median_filter/median_filter.runs/impl_1/median_filter.vdi
+# Journal file: C:/Toma/vlsi/median_filter/median_filter.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source median_filter.tcl -notrace

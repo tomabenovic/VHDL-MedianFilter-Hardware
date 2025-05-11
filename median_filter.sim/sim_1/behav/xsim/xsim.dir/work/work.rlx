@@ -1,0 +1,15 @@
+0.7
+2020.2
+Jun 10 2021
+20:04:57
+C:/Toma/vlsi/median_filter/median_filter.srcs/sim_1/new/MedianSorter_tb.vhd,1744102523,vhdl,,,,mediansorter_tb,,,,,,,,
+C:/Toma/vlsi/median_filter/median_filter.srcs/sim_1/new/edge_detector_tb.vhd,1746962362,vhdl,,,,edge_detector_tb,,,,,,,,
+C:/Toma/vlsi/median_filter/median_filter.srcs/sim_1/new/median_filter_tb.vhd,1746957307,vhdl,,,,median_filter_tb,,,,,,,,
+C:/Toma/vlsi/median_filter/median_filter.srcs/sources_1/new/MedianSorter.vhd,1743772593,vhdl,,,,mediansorter,,,,,,,,
+C:/Toma/vlsi/median_filter/median_filter.srcs/sources_1/new/RAM_definitions_PK.vhd,1742989159,vhdl,C:/Toma/vlsi/median_filter/median_filter.srcs/sources_1/new/median_filter.vhd,,,ram_definitions_pk,,,,,,,,
+C:/Toma/vlsi/median_filter/median_filter.srcs/sources_1/new/edge_detector.vhd,1746967432,vhdl,,,,edge_detector,,,,,,,,
+C:/Toma/vlsi/median_filter/median_filter.srcs/sources_1/new/im_ram.vhd,1743004457,vhdl,C:/Toma/vlsi/median_filter/median_filter.srcs/sources_1/new/ram_fifo.vhd,,,im_ram,,,,,,,,
+C:/Toma/vlsi/median_filter/median_filter.srcs/sources_1/new/median_filter.vhd,1746958302,vhdl,,,,median_filter,,,,,,,,
+C:/Toma/vlsi/median_filter/median_filter.srcs/sources_1/new/median_filter_pkg.vhd,1742423567,vhdl,C:/Toma/vlsi/median_filter/median_filter.srcs/sources_1/new/median_filter.vhd,,,median_filter_pkg,,,,,,,,
+C:/Toma/vlsi/median_filter/median_filter.srcs/sources_1/new/ram_fifo.vhd,1744040534,vhdl,,,,ram_fifo,,,,,,,,
+C:/Toma/vlsi/median_filter/median_filter.srcs/sources_1/new/systolic_MedianSorter.vhd,1746431531,vhdl,,,,systolic_mediansorter,,,,,,,,

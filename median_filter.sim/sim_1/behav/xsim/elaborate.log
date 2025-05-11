@@ -1,0 +1,15 @@
+Vivado Simulator v2021.1
+Copyright 1986-1999, 2001-2021 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2021.1/bin/unwrapped/win64.o/xelab.exe -wto fe9955f7349543aa9e961760622dddb4 --incr --debug typical --relax --mt 2 -L work -L secureip --snapshot edge_detector_tb_behav work.edge_detector_tb -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling architecture behavioral of entity work.edge_detector [edge_detector_default]
+Compiling architecture behavioral of entity work.edge_detector_tb
+Built simulation snapshot edge_detector_tb_behav

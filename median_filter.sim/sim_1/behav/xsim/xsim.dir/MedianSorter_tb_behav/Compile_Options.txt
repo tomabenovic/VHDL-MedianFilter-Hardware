@@ -1,0 +1,1 @@
+-wto "fe9955f7349543aa9e961760622dddb4" --incr --debug "typical" --relax --mt "2" -L "work" -L "secureip" --snapshot "MedianSorter_tb_behav" "work.MedianSorter_tb" -log "elaborate.log" 

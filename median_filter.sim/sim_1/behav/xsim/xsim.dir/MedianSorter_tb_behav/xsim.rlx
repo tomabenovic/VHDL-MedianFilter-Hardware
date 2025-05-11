@@ -1,0 +1,12 @@
+
+{ 
+    crc :  1391760607742162405  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto fe9955f7349543aa9e961760622dddb4 --incr --debug typical --relax --mt 2 -L work -L secureip --snapshot MedianSorter_tb_behav work.MedianSorter_tb" , 
+    buildDate : "Jun 10 2021" , 
+    buildTime : "20:04:57" , 
+    linkCmd : "C:\\Xilinx\\Vivado\\2021.1\\data\\..\\tps\\mingw\\6.2.0\\win64.o\\nt\\bin\\gcc.exe -Wa,-W  -O -Wl,--stack,104857600 -o \"xsim.dir/MedianSorter_tb_behav/xsimk.exe\"   \"xsim.dir/MedianSorter_tb_behav/obj/xsim_0.win64.obj\" \"xsim.dir/MedianSorter_tb_behav/obj/xsim_1.win64.obj\" -L\"C:\\Xilinx\\Vivado\\2021.1\\lib\\win64.o\" -lrdi_simulator_kernel   -lrdi_simbridge_kernel" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 

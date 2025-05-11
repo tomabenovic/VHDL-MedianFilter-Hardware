@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7z020clg400-1" LaunchTime="1746958956">
+  <File Type="ROUTE-PWR" Name="median_filter_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="median_filter.tcl"/>
+  <File Type="BITSTR-MMI" Name="median_filter.mmi"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="median_filter_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="median_filter_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR-SUM" Name="median_filter_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="median_filter_reports.tcl"/>
+  <File Type="OPT-TIMING" Name="median_filter_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="median_filter_opt.dcp"/>
+  <File Type="OPT-DRC" Name="median_filter_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="median_filter.hwdef"/>
+  <File Type="PWROPT-DCP" Name="median_filter_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="median_filter_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="median_filter_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="median_filter_placed.dcp"/>
+  <File Type="PLACE-IO" Name="median_filter_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="median_filter_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="median_filter_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="median_filter_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="median_filter_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="median_filter_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="median_filter_incremental_reuse_pre_placed.rpt"/>
+  <File Type="BG-BIN" Name="median_filter.bin"/>
+  <File Type="PLACE-TIMING" Name="median_filter_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="median_filter_postplace_pwropt.dcp"/>
+  <File Type="BITSTR-MSK" Name="median_filter.msk"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="median_filter_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="median_filter_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="median_filter_drc_physopted.rpt"/>
+  <File Type="BITSTR-RBT" Name="median_filter.rbt"/>
+  <File Type="PHYSOPT-TIMING" Name="median_filter_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="median_filter_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="median_filter_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="median_filter_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="median_filter_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="median_filter_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="median_filter_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="median_filter_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="median_filter_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="median_filter_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="median_filter_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="median_filter_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="median_filter_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="median_filter_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="median_filter_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="median_filter_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="median_filter_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="median_filter_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="median_filter_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="median_filter_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="median_filter_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="median_filter_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="median_filter_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="median_filter_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="median_filter_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="median_filter_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="median_filter_bus_skew_postroute_physopted.rpt"/>
+  <File Type="BG-BIT" Name="median_filter.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="median_filter_bus_skew_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="median_filter_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-NKY" Name="median_filter.nky"/>
+  <File Type="BITSTR-BMM" Name="median_filter_bd.bmm"/>
+  <File Type="PDI-FILE" Name="median_filter.pdi"/>
+  <File Type="RCFI_FILE" Name="median_filter.rcfi"/>
+  <File Type="CFI_FILE" Name="median_filter.cfi"/>
+  <File Type="RNPI_FILE" Name="median_filter.rnpi"/>
+  <File Type="NPI_FILE" Name="median_filter.npi"/>
+  <File Type="RBD_FILE" Name="median_filter.rbd"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="median_filter.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="median_filter.sysdef"/>
+  <File Type="BG-BGN" Name="median_filter.bgn"/>
+  <File Type="BG-DRC" Name="median_filter.drc"/>
+  <File Type="RDI-RDI" Name="median_filter.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/median_filter_pkg.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/RAM_definitions_PK.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/im_ram.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/ram_fifo.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/systolic_MedianSorter.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/median_filter.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/MedianSorter.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/lenaCorrupted.dat">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/init.dat">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/uart.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/uart_tx.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="median_filter"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/clock_constraints.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2021"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>
